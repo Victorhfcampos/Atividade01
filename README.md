@@ -1,2 +1,2 @@
-# Atividade 01
-Repositório da primeira atividade
+# Atividades Feras da Tecnologia
+Repositório das atividades
